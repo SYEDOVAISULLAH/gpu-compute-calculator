@@ -35,4 +35,4 @@ You can use CLI version directly in your command prompt, Without installing pack
 6. `--gpu` "nvidia h100" - Which GPU you want to use? ** Type = String **
 
 
-
+This Repository is completely made on Linux, some dependencies may be missing on Windows
